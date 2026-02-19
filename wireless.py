@@ -5,7 +5,7 @@ import time
 # ==============================
 # SETTINGS
 # ==============================
-ESP_IP = "192.168.1.45"   # 🔁 CHANGE THIS
+ESP_IP = "192.168.148.60"   # 🔁 CHANGE THIS
 MAX_LIMIT = 3             # 🔁 Change limit here
 CONF_THRESHOLD = 0.6
 
